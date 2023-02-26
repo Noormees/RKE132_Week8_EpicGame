@@ -1,0 +1,15 @@
+C:\Users\Noormees\source\repos\Week_EpicGame\Week_EpicGame\bin\Debug\net6.0\Week_EpicGame.exe
+C:\Users\Noormees\source\repos\Week_EpicGame\Week_EpicGame\bin\Debug\net6.0\Week_EpicGame.deps.json
+C:\Users\Noormees\source\repos\Week_EpicGame\Week_EpicGame\bin\Debug\net6.0\Week_EpicGame.runtimeconfig.json
+C:\Users\Noormees\source\repos\Week_EpicGame\Week_EpicGame\bin\Debug\net6.0\Week_EpicGame.dll
+C:\Users\Noormees\source\repos\Week_EpicGame\Week_EpicGame\bin\Debug\net6.0\Week_EpicGame.pdb
+C:\Users\Noormees\source\repos\Week_EpicGame\Week_EpicGame\obj\Debug\net6.0\Week_EpicGame.csproj.AssemblyReference.cache
+C:\Users\Noormees\source\repos\Week_EpicGame\Week_EpicGame\obj\Debug\net6.0\Week_EpicGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noormees\source\repos\Week_EpicGame\Week_EpicGame\obj\Debug\net6.0\Week_EpicGame.AssemblyInfoInputs.cache
+C:\Users\Noormees\source\repos\Week_EpicGame\Week_EpicGame\obj\Debug\net6.0\Week_EpicGame.AssemblyInfo.cs
+C:\Users\Noormees\source\repos\Week_EpicGame\Week_EpicGame\obj\Debug\net6.0\Week_EpicGame.csproj.CoreCompileInputs.cache
+C:\Users\Noormees\source\repos\Week_EpicGame\Week_EpicGame\obj\Debug\net6.0\Week_EpicGame.dll
+C:\Users\Noormees\source\repos\Week_EpicGame\Week_EpicGame\obj\Debug\net6.0\refint\Week_EpicGame.dll
+C:\Users\Noormees\source\repos\Week_EpicGame\Week_EpicGame\obj\Debug\net6.0\Week_EpicGame.pdb
+C:\Users\Noormees\source\repos\Week_EpicGame\Week_EpicGame\obj\Debug\net6.0\Week_EpicGame.genruntimeconfig.cache
+C:\Users\Noormees\source\repos\Week_EpicGame\Week_EpicGame\obj\Debug\net6.0\ref\Week_EpicGame.dll
